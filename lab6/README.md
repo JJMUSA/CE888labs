@@ -1,6 +1,6 @@
 # Lab6
 A visual Evaluation of clustering using silhouette_score
-Silhouette_score is a measure of:
+*Silhouette_score is a measure of:
 	*Cohesion: How related elements in a cluster are.
 	*Sepration: The difference between indiviual clusters.
 High Silhouette_score indicate good Cohesion and 
